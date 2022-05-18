@@ -1,0 +1,11 @@
+mother
+ father
+ daughter
+ son
+ grandson
+ granddaughter
+ grandmother
+ grandfather
+ uncle
+ aunt
+ cousin
